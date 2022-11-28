@@ -5,7 +5,7 @@ metadata:
   labels:
     app: summer-trip
 spec:
-  replicas: 1
+  replicas: 2
   selector:
     matchLabels:
       app: summer-trip
